@@ -4,17 +4,17 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title></title>
-            <author></author>
-            <editor></editor>
+            <title>Mónologo de Isabel viendo llover en Macondo</title>
+            <author>Gabriel García Márquez</author>
+            <editor>Cristian Suárez-Giraldo</editor>
             
          </titleStmt>
          <publicationStmt>
-            <p></p>
+            <p>Revista Mito</p>
          </publicationStmt>
          <sourceDesc>
          <bibl>
-         <pubPlace></pubPlace>
+         <pubPlace>Bogotá</pubPlace>
          <publisher></publisher>
          <date></date>
          </bibl>
@@ -23,7 +23,16 @@
   </teiHeader>
   <text>
       <body>
-      <div></div>
+      <div>
+      <lb/><p>El invierno se precipitó
+      <lb/>noche del sábado
+      <lb/>del domingo 
+      "<add>¿</add>Los oyes?"
+      t<reg>a</reg>nto
+      <time when="weekday"></time>   
+      </p>
+      
+      </div>
       </body>
   </text>
 </TEI>

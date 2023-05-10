@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monólogo de Isabel viendo llover en Macondo</title>
+            <author>Gabriel García Márquez</author>
+            <editor>Natalia Castaño Bermúdez</editor>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Revista Mito</p>
+         </publicationStmt>
+         <sourceDesc>
+         <bibl>
+         <pubPlace>Bogotá</pubPlace>
+         <publisher></publisher>
+         <date></date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+      <div>
+      <lb/> <p>Al mediodía del miércoles no había acabado de amanecer. Y
+      <lb/>antes de las tres de la tarde la noche había entrado de lleno, an-
+      <lb/>ticipada y enfermiza, con el mismo lento y monótono y despia-
+      <lb/>dado ritmo de la lluvia en el patio. Fue un crepúsculo prematuro,
+      <lb/>suave y lúgubre, que creció en medio del silencio de los guajiros
+      
+      
+      </p>
+      
+      </div>
+      </body>
+  </text>
+</TEI>

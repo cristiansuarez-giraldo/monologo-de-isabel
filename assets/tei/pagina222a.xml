@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mónologo de Isabel viendo llover en Macondo</title>
+            <author>Gabriel García Márquez</author>
+            <editor>Cristian Suárez-Giraldo</editor>
+            
+         </titleStmt>
+         <publicationStmt>
+            <p>Revista Mito</p>
+         </publicationStmt>
+         <sourceDesc>
+         <bibl>
+         <pubPlace>Bogotá</pubPlace>
+         <publisher></publisher>
+         <date></date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+      <div>
+      <lb/><p>El invierno se precipitó
+      <lb/>noche del sábado
+      <lb/>del domingo 
+      "<add>¿</add>Los oyes?"
+      t<reg>a</reg>nto
+      <time when="weekday"></time>   
+      </p>
+      
+      </div>
+      </body>
+  </text>
+</TEI>

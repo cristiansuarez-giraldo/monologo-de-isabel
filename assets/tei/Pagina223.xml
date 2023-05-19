@@ -24,13 +24,46 @@
   <text>
     <body>
       <div>
-      <lb/><p> Sólo entonces caí en la cuerta 
-      <lb/> 
-      
-      
+      <lb/><p> Ya no la sentíamos caer. Ya no veíamos sino el contorno de los árboles en la niebla, 
+      <lb/> en un <time when="18:00:00"> atardecer </time> triste y desolado que dejaba en los labios el mismo sabor con que se despierta 
+      <lb/>después de haber soñado con una persona desconocida. Yo sabía que era <time when="weekday">martes </time> y me 
+      <lb/>acordaba de las <name type="personRoleName"> mellizas </name> de <name type="place"> San Jerónimo </name>, de las <name type="personRoleName"> niñas ciegas que todas las semanas vienen </name>
+      <lb/>a la <name type="place">casa </name> a decirnos canciones simples, entristecidas por el amargo y desamparado prodigio 
+      <lb/>de sus voces. Por encima de la lluvia yo oía la cancioncilla de las <name type="personRoleName"> mellizas ciegas </name> y las 
+      <lb/>imaginaba en su casa, acuclilladas, aguardando a que cesara la lluvia para salir a cantar. Aquel 
+      <lb/>día no llegarían las mellizas de <name type="place"> San Jerónimo </name>, pensaba yo, ni <name type="personRoleName">la pordiosera </name> estaría en el 
+      <lb/>corredor después de la siesta, pidiendo, como todos los <time when="weekday">martes </time>, la eterna ramita de toronjil.
+      <lb/>Ese día perdimos el orden de las comidas. Mi <name type="personRoleName"> madrastra </name> sirvió a la hora de la siesta 
+      <lb/>un plato de sopla simple y un pedazo de pan rancio. Pero en realidad no comíamos desde el 
+      <lb/><time when="18:00:00"> atardecer </time> del <time when="weekday">lunes </time> y creo que desde entonces dejamos de pensar. Estábamos paralizados,
+      <lb/>narcotizados por la lluvia, entregados al derrumbamiento de la naturaleza en una actitud 
+      <lb/>pacifica y resignada. Solo <name type="personRoleName"> la vaca </name> se movió en la <time when="15:00:00">tarde</time>. De pronto, un profundo rumor sacudió 
+      <lb/>sus entrañas y las pesuñas se hundieron en el barro con mayor fuerza. Luego permaneció
+      <lb/>inmóvil durante media hora, como si ya estuviera muerta pero no pudiera caer porque se lo
+      <lb/>impedía la costumbre de estar viva, el habito de estar en una misma posición bajo la lluvia; 
+      <lb/>hasta cuando la costumbre fue más débil que el cuerpo. Entonces dobló las patas delanteras 
+      <lb/>(levantadas todavía en un último esfuerzo agónico las ancas brillantes y oscuras), hundió el 
+      <lb/>babeante hocico en el lodazal y se rindió por fin al peso de su propia materia en una 
+      <lb/>silenciosa, gradual y digna ceremonia de total derrumbamiento. “Hasta ahí llego” dijo alguien 
+      <lb/>a mis espaldas. Y yo me volví a mirar y ví, en el umbral, a la <name type="personRoleName"> pordiosera </name> de los <time time="weekday"> martes que 
+      <lb/>venía a través de la tormenta a pedir la ramita de toronjil. 
+      <lb/>Tal vez el <time when="weekday" miércoles me habría acostumbrado a ese ambiente sobrecogedor si al llegar 
+      <lb/>a la <name type="place"> sala </name> no hubiera encontrado la mesa recostada sobre la pared, los muebles amontonados 
+      <lb/>encima de ella, y del otro lado, en un parapeto improvisado durante <time when="21:00:00">la noche</time>>, los baúles y las 
+      <lb/>cajas con los utensilios domésticos. El espectáculo me produjo una terrible sensación de 
+      <lb/>vacío. Algo había sucedido durante la <time when="21:00:00"> noche</time>. La casa estaba en desorden; los guajiros, sin 
+      <lb/>camisa y descalzos, con los pantalones enrollados hasta las rodillas, transportaban los 
+      <lb/>muebles al comedor. En la expresión de los hombres, en la misma diligencia con la que 
+      <lb/>trabajaban, se advertía la crueldad de la frustrada rebeldía, de la forzosa y humillante
+      <lb/>inferioridad bajo la lluvia. Yo me movía sin dirección, sin voluntad.  Me sentía convertida en 
+      <lb/>una pradera desolada, sembrada de algas y líquenes, de hongos viscosos y blandos; fecundad 
+      <lb/>por la repugnante flora de la humedad y las tinieblas. Yo estaba en la <name type="place"> sala</name>, contemplando el 
+      <lb/>desierto espectáculo de los muebles amontonados cuando oía la vos de mi <name type="personRoleName"> madrastra</name>en el 
+      <lb/>cuarto, advirtiéndome que podía contraer pulmonía. Sólo entonces caí en la cuerta de que el 
+      <lb/>agua me daba a los tobillos, de que la <name type="place"> casa </name> estaba inundada, cubierto el piso por una gruesa 
+      <lb/>superficie de agua viscosa y muerta.  
       </p>
-      </div>
-      
+      </div>  
       </body>
   </text> 
 </TEI>

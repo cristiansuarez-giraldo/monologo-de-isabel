@@ -23,7 +23,60 @@
   </teiHeader>
   <text>
       <body>
-      <div></div>
+<div>
+<p> <lb/> Pero mi <name type="role">padre</name> no volvió: se extravió en el tiempo. Así que 
+<lb/> cuando llegó la <time when="night">noche</time> llamé a mi <name type="role">madrastra</name> para decirle que me 
+<lb/> acompañara al <name type="place">dormitorio</name>. Tuve un sueño pacífico, sereno, que 
+<lb/> se prolongó a lo largo de toda la <time when="night">noche</time>. Al <time when="day">día siguiente</time> la at- 
+<lb/> mósfera seguía igual, sin color, sin olor, sin temperatura. Tan 
+<lb/> pronto como desperté salté a un asiento y permanecí inmóvil, 
+<lb/> porque algo me indicaba que todavía una zona de mi conciencia  
+<lb/> no había despertado por completo. Entonces oí el pito del tren. 
+<lb/> El pito prolongado y triste del tren fugándose de la tormenta. 
+<lb/> "Debe haber escampado en <name type="place">alguna parte</name>", pensé; y una voz, a  
+<lb/> mis espaldas, pareció responder a mi pensamiento: "Dónde...", 
+<lb/> dijo. "Quién está ahí", dije yo, mirando. Y ví a mi <name type="role">madrastra</name> 
+<lb/> con un brazo largo y escuálido extendido hacia la pared. "Soy 
+<lb/> yo", dijo. Y yo le dije: <corr>"¿Los oyes?"</corr>. Y ella dijo que sí, que tal vez 
+<lb/> habría escampado en los <name type="place">alrededores</name> y habían reparadao las lí- 
+<lb/> neas. <reg>Luego</reg> me entregó una bandeja con el desayuno humeante. 
+<lb/> Aquello olía a salsa de ajo y manteca hervida. Era un plato de 
+<lb/> sopa. Desconcertada le pregunté a mi <name type="role">madrastra</name> por la hora. Y 
+<lb/> ella, calmadamente, con una voz que sabía a postrada resignación, 
+<lb/> dijo: "Deben ser las <time when="hour">dos y media</time>, más o menos. El tren no lleva 
+<lb/> retraso después de todo. Yo dije: <corr> "¡Las <time when="hour">dos y media!</time> </corr> ¡Cómo hice 
+<lb/> para dormir tánto!". Y ella dijo: "No has dormido mucho. A lo 
+<lb/> sumo serán las <time when="hour">tres"</time>. Y yo, temblando, sintiendo resbalar el plato 
+<lb/> entre mis manos: "Las <time when="hour">dos y media</time> del <time when="weekday">viernes..."</time>, dije. Y ella, 
+<lb/> monstruosamente tranquila: "Las <time when="hour">dos y media</time> del <time when="weekday">jueves</time>, hija. 
+<lb/> Todavía las <time when="hour">dos y media</time> del <time when="weekday">jueves"</time>. </p>
+
+<p> <lb/> No sé cuanto tiempo estuve hundida en aquel sonambulismo 
+<lb/> en que los sentidos perdieron su valor. <reg>Solo</reg> sé que después de 
+<lb/> <time when="hour">muchas horas</time> incontables oí una voz en la pieza vecina. Una voz 
+<lb/> que decía: "Ahora puedes rodar la cama para ese <name type="place">lado"</name>. Era una 
+<lb/> voz fatigada, pero no voz de enfermo sino de convalesciente. Des- 
+<lb/> pués oí el ruido de los ladrillos en el agua. Permanecí rígida an- 
+<lb/> tes de darme cuenta de que me encontraba en posición horizon- 
+<lb/> tal. Entonces sentí el vacío inmenso. Sentí el trepidante y violento 
+<lb/> silencio de la <name type="place">casa</name>, la inmovilidad increíble que afectaba todas 
+<lb/> las cosas. Y súbitamente sentí el corazón convertido en una pie- 
+<lb/> dra helada. "Estoy muerta", pensé. "Dios. Estoy muerta". Di un 
+<lb/> salto en la cama. Grité: <corr> <name type="person">¡Ada,</name> <name type="person">Ada!"</name> </corr>. La voz desabrida de <name type="person">Martín</name> 
+<lb/> me respondió desde el <name type="place">otro lado</name>: "No pueden oirte porque ya 
+<lb/> están <name type="place">afuera"</name>. <reg>Solo</reg> entonces me dí cuenta de que había escam- 
+<lb/> pado y de que en <name type="place">torno</name> a nosotros se extendía un silencio, una 
+<lb/> tranquilidad, una beatitud misteriosa y profunda; un estado per- 
+<lb/> fecto que debía ser muy parecido a la muerte. Después se oye- 
+<lb/> ron pisadas en el <name type="place">corredor</name>. Se oyó una voz clara y completamente 
+<lb/> viva. <reg>Luego</reg> un vientecito fresco sacudió la hoja de la puerta, hizo 
+<lb/> crujir la cerradura y un cuerpo sólido y momentáneo, como una 
+<lb/> fruta madura, cayó profundamente en la alberca del patio. Algo 
+<lb/> en el aire denunciaba la presencia de una persona invisible que 
+<lb/> sonreía en la oscuridad. "Dios mío", pensé entonces, confundida 
+<lb/> por el trastorno del tiempo. "Ahora no me sorprendería de que 
+<lb/> me llamaran para asistir a la misa del <time when="weekday">domingo pasado"</time>. </p> </div>
+      
       </body>
   </text>
 </TEI>

@@ -23,7 +23,50 @@
   </teiHeader>
   <text>
       <body>
-      <div></div>
+      <div>
+       <lb/> <p> Árbol inmenso sobre los árboles. Mi  <name type="personRoleName"> padre </name>  ocupo el mismo sitio en que estuvo la 
+       <lb/>tarde del  <time when="weekend">domingo, pero no hablo de la lluvia. Dijo “Debe ser que  <time when="21:00:00">anoche</time> dormí mal, 
+       <lb/>porque me ha  <time when="7:00:00">amanecido</time> doliendo el espinazo”. Y estuvo allí, sentado contra el 
+       <lb/>pasamano, con los pies en una silla y la cabeza vuelta hacia el jardín vacío. Solo al 
+       <lb/> <time when="18:00:00">atardecer</time>, después de que se negó a almorzar, dijo “Es como si no fuera a 
+       <lb/>escampar nunca”. Y yo me acorde de los meses de calor. Me acorde de  <time when="month">agosto</time>, de 
+       <lb/>esas siestas largas y pasmadas en que nos echábamos a morir bajo el paso de la 
+       <lb/>hora, con la ropa pegada al cuerpo por el sudor, oyendo afuera el zumbido 
+       <lb/>insistente y sordo de la hora sin transcurso. Vi las paredes del jardincillo, vacío por 
+       <lb/>primera vez, y el jazminero contra el muro, fiel recuerdo de mi  <name type="personRoleName">madre</name>. Vi a mi  <name type="personRoleName">padre</name> 
+       <lb/>sentado en el mecedor, recostadas en una almohada las vértebras doloridas, y los 
+       <lb/>ojos tristeza, perdidos en el laberinto de la lluvia. Me acorde de las noches de 
+       <lb/> <time when="month">agosto</time>, en cuyo silencio maravillado no se oye nada que el ruido milenario que hace 
+       <lb/>la tierra girando en eje oxidado y sin aceitar. Súbitamente me sentí sobrecogida 
+       <lb/>por una agobiadora tristeza. </p>
+       <lb/> <p> Llovió durante todo el  <time when="weekday">lunes</time>, como el  <time when="weekend">domingo</time>. Pero entonces parecía como si 
+       <lb/>estuviera lloviendo de otro modo, porque algo distinto y amargo ocurría en mi 
+       <lb/>corazón. Al atardecer dijo una voz junto a mi asiento” Es aburridora esta lluvia”. Sin 
+       <lb/>que me volviera a mirar reconocí la voz de <name type="Name"> Martin</name>. Sabía que él estaba hablando en 
+       <lb/>el asiento de al lado, con la misma expresión fría y pasmada que no había variado 
+       <lb/>ni siquiera después de esa sombría <time when="6:00:00"> madrugada </time>de  <time when="month">diciembre</time> en que empezó a ser 
+       <lb/>mi  <name type="personRoleName">esposo</name>. Había transcurrido cinco meses desde entonces. Ahora yo iba a tener 
+       <lb/>un  <name type="personRoleName">hijo</name>. Y  <name type="name">Martín</name> estaba allí, a mi lado, diciendo que le aburria la lluvia. “Aburridora 
+       <lb/>no”; dije. “lo que me parece es demasiado triste el jardín vacío y esos pobres 
+       <lb/>árboles que no pueden quitarse del patio”. Entonces me volví a mirarlo, y ya  <name type="Name">Martin </name> 
+       <lb/>no estaba allí. Era apenas una voz que me decía “Por lo visto no piensa escampar 
+       <lb/>nunca”; y cuando miré hacia la voz solo encontré la silla vacía. </p>
+       <lb/><p><time when="weekday">El martes</time> <time when="6:00:00">amaneció</time> una vaca en el jardín. Parecía un promontorio de arcilla en su 
+       <lb/>inmovilidad dura y rebelde, hundidas las pezuñas en el barro y la cabeza doblegada. 
+       <lb/>Durante la mañana los guajiros trataron de ahuyentarla con palos y ladrillos. Pero 
+       <lb/>la vaca permaneció imperturbable en el jardín, dura, inviolable, todavía las pezuñas 
+       <lb/>hundidas en el barro y la enorme cabeza humillada por la lluvia. Los guajiros la 
+       <lb/>acosaron hasta cuando la paciente tolerancia de mi  <name type="personRoleName">parde</name> vino en defensa de la 
+       <lb/>suya: “Déjenla tranquila”, dijo. “Ella se ira como vino”  </p>
+       <lb/> <p>Al  <time when="18:00:00">atardecer</time> del  <time when="weekday">martes</time> el agua apretaba y dolía como una mortaja en el corazón. 
+       <lb/>El fresco de la primera  <time when="6:00:00">mañana</time> empezó a convertirse en una humedad caliente y 
+       <lb/>pastosa. La temperatura no era fría ni caliente; era una temperatura de escalofrió. 
+       <lb/>Los pies sudaban dentro de los zapatos. No se sabía que era más desagradable, si 
+       <lb/>la piel al descubierto o el contacto de la ropa en la piel. En la casa había cesado 
+       <lb/>toda actividad. Nos sentamos en el corredor, pero no contemplábamos la lluvia 
+       <lb/>como el primer día. Ya no la sentíamos caer. Ya no la veía - </p>
+       
+      </div>
       </body>
   </text>
 </TEI>
